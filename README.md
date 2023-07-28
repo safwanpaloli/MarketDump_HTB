@@ -1,6 +1,6 @@
 # MarketDump_HTB
 
-Open the file in WireShark .pcap(packetcapture)
+Open the file in onkeypress="return event.charCode &gt;= 48 &amp;&amp; event.charCode &lt;= 57" .pcap(packetcapture)
 ![](wireshark.png)
 
 Filter tcp.stream == 1056
